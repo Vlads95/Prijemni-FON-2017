@@ -11,7 +11,7 @@ namespace Prijemni_FON_2017
 
       protected  string ime;
         protected string prezime;
-        protected  string jmbg;
+        public  string jmbg;
 
 
 

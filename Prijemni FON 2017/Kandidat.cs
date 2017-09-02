@@ -13,7 +13,7 @@ namespace Prijemni_FON_2017
 
         string prijava;
         string imeSrednje;
-        List<Odgovor> spisakOdgovora;
+       public List<Odgovor> spisakOdgovora;
         Osoba liceZaUpis;
         Osoba dezurni;
         Predmeti oblast
